@@ -1,0 +1,18 @@
+{
+  "name": "balance-changes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ndudfield@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^2.0.0",
+    "extend": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
